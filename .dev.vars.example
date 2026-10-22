@@ -1,0 +1,3 @@
+# 本機開發用的管理員帳密。複製成 .dev.vars 後使用；正式環境改用 `wrangler secret put`。
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=dev-password
